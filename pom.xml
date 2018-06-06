@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.tpakula</groupId>
     <artifactId>redis-bin</artifactId>
     <packaging>jar</packaging>
-    <version>3.2.11.0-SNAPSHOT</version>
+    <version>3.2.11.0</version>
     <url>https://github.com/tpakula/redis-bin</url>
 
     <name>redis-bin</name>
@@ -39,7 +37,7 @@
         <url>https://github.com/tpakula/redis-bin.git</url>
         <connection>scm:git:git//github.com:tpakula/redis-bin.git</connection>
         <developerConnection>scm:git:git@github.com:tpakula/redis-bin.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>redis-bin-3.2.11.0</tag>
     </scm>
 
     <distributionManagement>
