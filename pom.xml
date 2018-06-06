@@ -10,6 +10,22 @@
     <version>3.2.11.0-SNAPSHOT</version>
     <url>https://github.com/tpakula/redis-bin</url>
 
+    <name>redis-bin</name>
+    <description>Redis binaries to use along with embedded redis: it.ozimov:embedded-redis</description>
+    <developers>
+        <developer>
+            <id>tpakula</id>
+            <name>Tomasz Pakula</name>
+            <email>tjpakula@gmail.com</email>
+            <url>http://www.tomaszpakula.pl</url>
+            <organization>HuuugeGames</organization>
+            <organizationUrl>https://www.huuugegames.com/</organizationUrl>
+            <roles>
+                <role>developer</role>
+            </roles>
+        </developer>
+    </developers>
+
     <licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>
